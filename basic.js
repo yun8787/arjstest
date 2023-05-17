@@ -15,8 +15,8 @@ window.onload = () => {
             });
             entity.setAttribute('material', { color: 'red' } );
             entity.setAttribute('gps-new-entity-place', {
-                latitude: 25.05899,
-                longitude: 121.43278
+                latitude: 25.0814031,
+                longitude: 121.396737
             });
             document.querySelector("a-scene").appendChild(entity);
         }
