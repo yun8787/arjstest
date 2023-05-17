@@ -14,7 +14,7 @@ window.onload = () => {
                 z: 20
             });
             entity.setAttribute('material', { color: 'red' } );
-            entity.setAttribute('gps-new-entity-place', {
+            entity.setAttribute('gps-projected-entity-place', {
                 latitude: 25.0814031,
                 longitude: 121.396737
             });
